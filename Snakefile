@@ -1,5 +1,3 @@
-bad change goes here
-
 rule all:
     input: "hello.txt", "howdy.txt"
     
